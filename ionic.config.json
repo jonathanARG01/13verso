@@ -1,0 +1,7 @@
+{
+  "name": "13verso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
